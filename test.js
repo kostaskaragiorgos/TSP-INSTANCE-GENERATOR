@@ -1,9 +1,9 @@
 function getInputValue(){
     var inputVal = document.getElementById("numberofr").value;
-    if (inputVal > 3){
-        alert("OK")
+    if (inputVal > 4){
+        // TO DO
     }else{
-        alert("NOT OK")
+        alert("ERROR ADD AN INTEGER NUMBRER >4")
 
     }
 }
